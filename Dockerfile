@@ -1,2 +1,2 @@
 FROM tomcat:9-jre9 
-COPY ./students.war /usr/local/tomcat/webapps
+COPY ./E-com.war /usr/local/tomcat/webapps
